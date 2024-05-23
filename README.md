@@ -4,3 +4,4 @@ Get ready to elevate your project's first impression! This new navigation bar ad
 Effortless Navigation: With clear and concise labels, users can jump directly to the information they seek, whether it's understanding the installation process, diving into the codebase, or exploring the project's features.
 <br>
 Enhanced Readability: Gone are the days of scrolling through a massive wall of text. The navigation bar provides a clear structure, allowing users to quickly grasp the project's layout.
+![Screenshot (74)](https://github.com/Helix-1716/Navigation-bar/assets/161151585/108d4c33-f76b-4863-9f65-c40cc3513cde)
